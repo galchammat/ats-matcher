@@ -1,0 +1,8 @@
+# Generated resume runs (bin — job-specific outputs)
+/resumes/*
+!/resumes/master
+/resumes/master/*.pdf
+/resumes/master/*.bak
+
+# Source PDFs (sensitive input files)
+old-resume.pdf
